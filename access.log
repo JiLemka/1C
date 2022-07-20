@@ -1,0 +1,13 @@
+127.0.0.1 - - [29/Oct/2018:16:18:20 +0300] "GET /SystemAdministrationCenter/ru_RU/ HTTP/1.1" 200 18398
+127.0.0.1 - - [29/Oct/2018:16:18:20 +0300] "GET /SystemAdministrationCenter/ru_RU/e1csys/mngsrv/favicon.ico HTTP/1.1" 200 1718
+127.0.0.1 - - [29/Oct/2018:16:18:20 +0300] "GET /SystemAdministrationCenter/ru_RU/mainform.html?sysver=8.3.13.1569 HTTP/1.1" 200 2864
+127.0.0.1 - - [29/Oct/2018:16:18:22 +0300] "GET /SystemAdministrationCenter/ru_RU/webclient_start.css?sysver=8.3.13.1569 HTTP/1.1" 200 37823
+127.0.0.1 - - [29/Oct/2018:16:18:22 +0300] "GET /SystemAdministrationCenter/ru_RU/e1csys/mngcore/splashBottom.png?sysver=8.3.13.1569 HTTP/1.1" 200 4891
+127.0.0.1 - - [29/Oct/2018:16:18:22 +0300] "GET /SystemAdministrationCenter/ru_RU/e1csys/mngsrv/btnsel.png?sysver=8.3.13.1569 HTTP/1.1" 200 871
+127.0.0.1 - - [29/Oct/2018:16:18:22 +0300] "GET /SystemAdministrationCenter/ru_RU/scripts/webcolors.js?sysver=8.3.13.1569 HTTP/1.1" 200 3934
+127.0.0.1 - - [29/Oct/2018:16:18:22 +0300] "GET /SystemAdministrationCenter/ru_RU/e1csys/mngsrv/btnpress.png?sysver=8.3.13.1569 HTTP/1.1" 200 871
+127.0.0.1 - - [29/Oct/2018:16:18:22 +0300] "GET /SystemAdministrationCenter/ru_RU/e1csys/mngcore/splashTop.png?sysver=8.3.13.1569 HTTP/1.1" 200 10597
+127.0.0.1 - - [29/Oct/2018:16:18:22 +0300] "GET /SystemAdministrationCenter/ru_RU/e1csys/mngsrv/loaderbg.png?sysver=8.3.13.1569 HTTP/1.1" 200 123
+127.0.0.1 - - [29/Oct/2018:16:18:22 +0300] "GET /SystemAdministrationCenter/ru_RU/e1csys/mngsrv/empty.gif?sysver=8.3.13.1569 HTTP/1.1" 200 43
+127.0.0.1 - - [29/Oct/2018:16:18:22 +0300] "GET /SystemAdministrationCenter/ru_RU/scripts/mod_main_loader.js?sysver=8.3.13.1569 HTTP/1.1" 200 693678
+127.0.0.1 - - [29/Oct/2018:16:18:22 +0300] "GET /SystemAdministrationCenter/ru_RU/resourceStrings?sysver=8.3.13.1569 HTTP/1.1" 200 40812 HTTP/1.1" 200 98
